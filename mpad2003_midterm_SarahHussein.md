@@ -32,7 +32,7 @@ This specific dataset for the purpose of this assignment through [github]( https
 
 ### Importing the Data into Google Sheets
 
-To import the City of Ottawa service request dataset into google sheets, I first accessed the data link via Brightspace. By right clicking the link opened up a new page, and from there I clicked on the "file" tab. I proceeded to saved the data as a csv file. In Google Sheets, I clicked on file >  and then "import" and uploaded the CSV, successfully adding it to my existing sheet. Below is a screen capture showing the first few rows and columns of the dataset. 
+To import the City of Ottawa service request dataset into [google sheets](https://docs.google.com/spreadsheets/d/1vHor1D0R2GMq9kFDASdSj4vONDRADYJxD9ZI9eYhoCU/edit?gid=667362158#gid=667362158), I first accessed the data link via Brightspace. By right clicking the link opened up a new page, and from there I clicked on the "file" tab. I proceeded to saved the data as a csv file. In Google Sheets, I clicked on file >  and then "import" and uploaded the CSV, successfully adding it to my existing sheet. Below is a screen capture showing the first few rows and columns of the dataset. 
 
 ![](import1.png)<br>
 
@@ -92,7 +92,14 @@ My aim was to identify patterns in service usage across different wards and high
 
 ## 6. References
 
+References
+3.4 processing. (2021, September 2). Retrieved from (https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch3/5214783-eng.htm)
 
-**Here's an example:**
+Cairo. (2016). The truthful art: Data, charts, and maps for communication. Retrieved from (https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch04.html#ch04lev1sec2)
 
-Bounegru, L., & Gray, J. (Eds.). (2021). *The Data Journalism Handbook 2: Towards A Critical Data Practice*. Amsterdam University Press. [https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL_CRL/hgdufh/alma991022890087305153)
+Crowdsourcing data at the Guardian Datablog. (2019, February 6). Retrieved from (https://datajournalism.com/read/handbook/one/getting-data/crowdsourcing-data-at-the-guardian-datablog)
+
+Data accuracy and validation: Methods to ensure the quality of data. (2022, May 11). Retrieved from (https://www.statcan.gc.ca/en/wtc/data-literacy/catalogue/892000062020008)
+
+
+
