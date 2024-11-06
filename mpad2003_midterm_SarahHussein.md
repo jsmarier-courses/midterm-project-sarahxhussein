@@ -30,14 +30,14 @@ This specific dataset for the purpose of this assignment through [github]( https
 
 ## 2. Getting Data
 
-###Importing the Data into Google Sheets
+### Importing the Data into Google Sheets
 
 To import the City of Ottawa service request dataset into google sheets, I first accessed the data link via Brightspace. By right clicking the link opened up a new page, and from there I clicked on the "file" tab. I proceeded to saved the data as a csv file. In Google Sheets, I clicked on file >  and then "import" and uploaded the CSV, successfully adding it to my existing sheet. Below is a screen capture showing the first few rows and columns of the dataset. 
 
 ![](import1.png)<br>
 
 
-###Observations
+### Observations
 
 The dataset contains 11 columns and 28,538 rows. In the truthful art Cairo (2016) states “a visualization is any kind of visual representation of information designed to enable communication, analysis, discovery, exploration”. The visual observation gathered shows a variety of service request with details such as the type, description, and opened: closed dates. Generally, the data appears roughly presentable however, there are some entries with missing values in address fields, which may impact viewers understanding. Moreover, the spacing of the columns in addition to some specific entries may denote a further need of clean up for spacing and validity of the data. Further inspecting the columns, there are some specific observations that can be seen. 
 
@@ -60,15 +60,14 @@ This assignment can hypothesise that for wards with a higher population density 
 Cairo (2016) concurs that with respect to data “Data always vary randomly because the object of our inquiries, nature itself, is also random”.  That can be observed when looking at the variety of information provided by The City of Ottawa dataset, however, by applying a filter on specifically on garbage and recycling, a more concise deduction can be made. ![](filter1.png)
 Analyzing garbage and recycling service request data reveals some intriguing insights! [](pivot1.png) . By creating a pivot table primarily to observe Garbage and Recycling Ward 19 stands out with a staggering 627 resolved requests, indicating the possibility of a high population density or significant commercial activity showing the validity of the data. Invalid entries don’t fall under this specific column filter as they seemed to be appropriately allocated with their respective statuses. Address data is notably missing in many entries, affecting the ability to analyze the geographical distribution of service requests, which would require a further research based only on the Ward. Outlier values could be seen with the by difference in request numbers from wards with a fewer population and the converse can be seen for wards with a higher population.
 
-Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
-
-**For example:**
-
-As Cairo (2016) argues, a data visualization should be truthful...
 
 ### 3.2. Cleaning Data
+Following the tutorial taught in class, I initially started by making the column appear well adjusted by selected all the cells and then double clicking the column on the side so it can equally space out. Additionally the steps below further enhance the quality of my dataset.
+1. Clearing white spaces: in google sheets the data can be easily cleaned up by clicking on ‘Data>Data cleanup> Trim white spaces’. This helps remove any spaces that might be a hindrance when analysing data. ![](whitespaces.png)
+2. Removing duplicates : To ensure that each service request was unique, I checked for and removed any duplicate entries. This was done by highlighting the data range by clicking on the column, then clicking on ‘Data > Data cleanup > Remove duplicates’. ![](duplicates.png)
+3. By deleting unnecessary columns: like date opened and date closed in addition to channel, helped make the data more clearly presented. This allows for a clearer view of the essential information, such as the service request IDs, status, types, and descriptions; helping eliminate clutter and made the remaining data more relevant and focused.Google sheets also suggested some things with regards to cleaning up data which I also applied. ![](Suggestion.png)
+4. Using the split function: This function in Google Sheets helped significantly enhanced the organization of my dataset by allowing me to separate the descriptions into their respective languages, English and French. This is especially useful in datasets where bilingual information is provided in a single column, which make it challenging to analyze or filter data effectively. The formula used is `=SPLIT(D2, "|")’ `  and can be seen here ![]( split.png).
 
-Insert text here.
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
