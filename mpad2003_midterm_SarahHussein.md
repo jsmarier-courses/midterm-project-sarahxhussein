@@ -71,17 +71,14 @@ Following the tutorial taught in class, I initially started by making the column
 
 ### 3.3. Exploratory Data Analysis (EDA)
 
-Insert text here.
+According to statcan (2021) “Once data has been obtained, either from this series of steps or from an administrative or alternative source of information, it’s time to process it so it’s ready to be used to produce statistical information”. For this assignment I created two pivot tables that helped further hone in the dataset. 
 
-**This section should include a screen capture of your pivot table, like so:**
+### Pivot Table 1: Total Service Requests by Type 
+This helped gauge and provide a comprehensive overview of the total service requests categorized by type, which helps gauge the demand for various municipal services. From that I deduced how the garbage and recycling department had the most request amount with 10,257 requests. This was then followed by bylaw services: which was the second most requested service. This comparison can highlight which services are most frequently requested and might inform resource allocation. The remaining service types, such as Health and Safety and Roads and Transportation, show lower request counts, but still highlight areas of community engagement and need. ![](pivot22.png)  ![](chart.png)  
 
-![](pivot-table-screen-capture.png)<br>
-*Figure 2: This pivot table shows...*
-
-**This section should also include a screen capture of your exploratory chart, like so:**
-
-![](chart-screen-capture.png)<br>
-*Figure 3: This exploratory chart shows...*
+### Pivot Table 2: Garbage and Recycling by ward
+This pivot table summarizes the number of active garbage collection requests per ward. Which was the key takeaway for the hypothesis. While the data for location may have not been accessible the wards can be further analysed as provided by the website the City of Ottawa provides a clear distinction for each and that can be further analysed. Specific wards with significantly higher numbers of active requests, indicate areas with potentially higher population density or service needs. ![](chart2.png) This chart illustrates garbage and recycling requests segmented into active, resolved, and cancelled categories. The Resolved segment are highly populated in the chart which demonstrates effective service management, from the city of Ottawa.
+I chose to focus on the wards and garbage recycling because they reveal patterns in community needs and service demands. Analyzing these variables helps identify the areas that would require more resources from a preventative perspective.
 
 ## 4. Potential Story
 
