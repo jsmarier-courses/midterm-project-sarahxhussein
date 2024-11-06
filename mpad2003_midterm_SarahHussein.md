@@ -82,7 +82,8 @@ I chose to focus on the wards and garbage recycling because they reveal patterns
 
 ## 4. Potential Story
 
-Insert text here.
+The data I specifically focused on: garbage and recycling request, offers a compelling story about how the community needs can be supported and made better by the municipal government branches. By analyzing the service requests across different wards, a clear pattern can be seen: certain areas are experiencing significantly higher demand for waste management. The pivot tables and charts reveal that garbage and recycling services account for over 10,000 requests, far exceeding those for other services like bylaw enforcement or recreational activities.
+While the data might be relatively higher than other branches it shows how crucial it is that effective waste management plays in our daily lives and needs to be supported by the citizens. Interviewing waste management supervisors or city planners could provide insights into how services are allocated and challenges they face in meeting community demands. The turnover rate for majority of requests reflects the ongoing initiative from the city of Ottawa with respect to the requests made. Successfully addressing these demands, with very few cancelled requests, speaks to the efficiency of the service. By further researching official reports on waste management services can help provide a more well-rounded approach to supporting the hypothesis and can help show current practices and future plans. The analysis shows just how important garbage and recycling services are and also opens up opportunities for improvements.
 
 ## 5. Conclusion
 
