@@ -87,11 +87,11 @@ While the data might be relatively higher than other branches it shows how cruci
 
 ## 5. Conclusion
 
-Insert text here.
+My aim was to identify patterns in service usage across different wards and highlight the importance of these services and managed to just scratch the surface. A statement well said by the Data Journalism (2019) “if you just present people with the mountain of information to go through and say ‘go through this’ it can make for hard and rather unrewarding work” and that was something I aimed to not do.The materials I referenced for the assignment managed to provide insight with respect to the most requested service with respect to wards however a further exploration of the location and in population would have ultimately bettered the analysis. Utilizing pivot tables and charts I managed to illustrate the data clearly, making it easier to draw insights about service demand and understand the types of requests being supported by the city of Ottawa. The most challenging part of the assignment was ensuring that I imported data and successfully cleaning it up with respect to my research. With 28538 rows of data there was so much to observe; and trying to formulate a hypothesis presented to be a challenge at first. Additionally, the chart for pivot table 2 seemed to be the trickiest as the data and values were not harmonious in presenting the required outlook from a visual perspective. The most rewarding aspect was managing to see the data come together after cleaning everything up and making sure that the information that is viewed can support my analysis. There were multiple moments when errors presented during the cleanup but luckily, google sheets as a platform served to support in certain areas. All in all, this assignment has strengthened my google sheets skills and provided an insightful outlook to where I can perform better.
+
 
 ## 6. References
 
-Include a list of your references here. Please follow [APA guidelines for references](https://apastyle.apa.org/style-grammar-guidelines/references). Hanging paragraphs aren't required though.
 
 **Here's an example:**
 
