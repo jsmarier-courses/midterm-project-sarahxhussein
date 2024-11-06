@@ -58,7 +58,7 @@ This assignment can hypothesise that for wards with a higher population density 
 ### 3.1. VIMO Analysis
 
 Cairo (2016) concurs that with respect to data “Data always vary randomly because the object of our inquiries, nature itself, is also random”.  That can be observed when looking at the variety of information provided by The City of Ottawa dataset, however, by applying a filter on specifically on garbage and recycling, a more concise deduction can be made. ![](filter1.png)
-Analyzing garbage and recycling service request data reveals some intriguing insights! [](pivot1.png) . By creating a pivot table primarily to observe Garbage and Recycling Ward 19 stands out with a staggering 627 resolved requests, indicating the possibility of a high population density or significant commercial activity showing the validity of the data. Invalid entries don’t fall under this specific column filter as they seemed to be appropriately allocated with their respective statuses. Address data is notably missing in many entries, affecting the ability to analyze the geographical distribution of service requests, which would require a further research based only on the Ward. Outlier values could be seen with the by difference in request numbers from wards with a fewer population and the converse can be seen for wards with a higher population.
+The garbage and recycling service request data revealed some  insights that can be supported. [](pivot1.png) . By creating a pivot table primarily to observe garbage and recycling, Ward 19 stands out with a staggering 627 resolved requests, indicating the possibility of a high population density or significant commercial activity showing the validity of the data. Invalid entries don’t fall under this specific column filter as they seemed to be appropriately allocated with their respective statuses. Address data is notably missing in many entries, affecting the ability to analyze the geographical distribution of service requests, which would require a further research based only on the Ward. Outlier values could be seen with the by difference in request numbers from wards with a fewer population and the converse can be seen for wards with a higher population.
 
 
 ### 3.2. Cleaning Data
@@ -92,7 +92,6 @@ My aim was to identify patterns in service usage across different wards and high
 
 ## 6. References
 
-References
 3.4 processing. (2021, September 2). Retrieved from (https://www150.statcan.gc.ca/n1/edu/power-pouvoir/ch3/5214783-eng.htm)
 
 Cairo. (2016). The truthful art: Data, charts, and maps for communication. Retrieved from (https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch04.html#ch04lev1sec2)
